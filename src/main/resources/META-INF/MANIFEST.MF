@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Main-Class: net.waitman.App
+Class-Path: api-ldap-model-2.1.0.jar activation-1.1.jar api-ldap-extras-
+ codec-2.1.0.jar api-all-2.1.0.jar javaee-api-8.0.1.jar api-ldap-schema-
+ data-2.1.0.jar org.apache.servicemix.bundles.xpp3-1.1.4c_7.jar jheaps-0
+ .11.jar fortress-core-2.0.7-SNAPSHOT.jar httpcore-4.4.13.jar api-i18n-2
+ .1.0.jar org.apache.servicemix.bundles.antlr-2.7.7_5.jar ant-launcher-1
+ .10.10.jar log4j-1.2.17.jar commons-lang3-3.12.0.jar commons-codec-1.15
+ .jar accelerator-api-1.0-RC41.jar jgrapht-core-1.4.0.jar org.apache.ser
+ vicemix.bundles.dom4j-2.1.3_1.jar commons-configuration-1.10.jar common
+ s-collections4-4.4.jar fortress-core-2.0.7-SNAPSHOT.jar api-asn1-ber-2.
+ 1.0.jar mina-core-2.1.3.jar commons-logging-1.1.1.jar api-asn1-api-2.1.
+ 0.jar slf4j-api-1.7.26.jar api-ldap-client-api-2.1.0.jar antlr-2.7.7.ja
+ r httpclient-4.5.13.jar jaxb-api-2.3.0.jar accelerator-impl-1.0-RC41.ja
+ r jackson-annotations-2.12.3.jar api-ldap-schema-converter-2.1.0.jar co
+ mmons-lang-2.6.jar jasypt-1.9.3.jar commons-io-2.10.0.jar javax.mail-1.
+ 6.2.jar slf4j-log4j12-1.7.26.jar api-util-2.1.0.jar api-ldap-extras-aci
+ -2.1.0.jar api-ldap-extras-codec-api-2.1.0.jar ant-1.10.10.jar api-ldap
+ -codec-core-2.1.0.jar ehcache-core-2.6.11.jar commons-pool2-2.9.0.jar
+
